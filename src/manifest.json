@@ -1,0 +1,21 @@
+{
+    "testId": "701514ec-ff45-4e19-84f7-9f688de8873a",
+    "name": "Gradientz",
+    "version": "1.0.0",
+    "manifestVersion": 2,
+    "requirements": {
+        "apps": [
+            {
+                "name": "Express",
+                "apiVersion": 1
+            }
+        ]
+    },
+    "entryPoints": [
+        {
+            "type": "panel",
+            "id": "panel1",
+            "main": "index.html"
+        }
+    ]
+}
